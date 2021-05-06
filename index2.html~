@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>Christmas 2016 Results: The Adventures of Ben Gwin</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="main2.css"/>
+		<link href="https://fonts.googleapis.com/css?family=Snowburst+One" rel="stylesheet">
+	</head>
+	<body>
+		<h2>Christmas 2016</h2>
+		<h1 id="punny">The Adventures of Ben Gwin</h1>
+		<div id="box">
+			<div id="inside">
+				<h1 style="font-size:40px;"><b>Thank you for playing!</b></h1>
+				<h2 style="font-size:70px;">2442</h2>
+				<h3 style="font-size:20px;position:relative;bottom:20px;">presents saved worldwide</h2>
+				<p>
+					<a href="mailto:?&subject=A Christmas game by a friend&body=http%3A//v.ht/Christmas2016" target="_blank">Share via email</a> <b>|</b> <a href="https://web.skype.com/share?flowId=627b83089e544b346801ec6491b91a11&url=http%3A%2F%2Fpicturethisthemovie.com.au%2Fchristmas2016%2F&source=button" target="_blank">Share via Skype</a> <b>|</b> <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//picturethisthemovie.com.au/christmas2016/" target="_blank">Share via Facebook</a> <b>|</b> <a href="https://twitter.com/intent/tweet?text=The results of The Adventures of Ben Gwin: 2442 presents saved! http://v.ht/Christmas2016" target="_blank">Tweet via Twitter</a> <b>|</b> <a href="https://plus.google.com/share?url=http%3A//picturethisthemovie.com.au/christmas2016/" target="_blank">Share via Google+</a> <b>|</b> <a href="https://en.wikipedia.org/wiki/Speech" target="_blank">Share via talking</a>
+				</p>
+			</div>
+		</div>
+		<br>
+		<a href="https://github.com/Vorax/Christmas2016" target="_blank" style="color:blue;">Source code on GitHub</a> <b>|</b> Made for friends and family by <a href="https://twitter.com/ioninja14" target="_blank" style="color:blue;">Luke Fisk-Lennon</a>
+	</body>
+</html>

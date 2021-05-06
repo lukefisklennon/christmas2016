@@ -1,0 +1,42 @@
+html, body {
+	margin: 0px;
+	text-align: center;
+	padding: 5px;
+	font-family: Arial;
+}
+
+#box {
+	width: 500px;
+	height: 500px;
+	background-color: red;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	color: white;
+}
+
+#inside {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+h1, h2 {
+	font-family: 'Snowburst One', cursive;
+	margin: 0px;
+}
+
+h1 {
+	font-size: 40px;
+	padding-bottom: 10px;
+}
+
+a {
+	color: #00FF00;
+}
+
+#punny {
+	background: -webkit-linear-gradient(#FF0000,#00FF00);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

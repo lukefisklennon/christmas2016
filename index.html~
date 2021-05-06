@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>Christmas 2016: The Adventures of Ben Gwin</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link rel="stylesheet" type="text/css" href="main.css"/>
+		<link href="https://fonts.googleapis.com/css?family=Snowburst+One" rel="stylesheet">
+	</head>
+	<body>
+		<img src="sky.jpg" id="sky">
+		<img src="player.png" id="player">
+		<img src="present.png" id="present">
+		<img src="fire.jpg" id="fire">
+		<h2><img src="bell.png" class="bell" style="-moz-transform:scaleX(-1);-o-transform:scaleX(-1);-webkit-transform:scaleX(-1);transform:scaleX(-1);">Christmas 2016<img src="bell.png" class="bell"></h2>
+		<h1 id="punny">The Adventures of Ben Gwin</h1>
+		<canvas id="canvas" style="cursor:pointer;"></canvas>
+		<br>
+		<span id="count"></span> <a href="#" id="help">Help</a> <b>|</b> <a href="https://github.com/Vorax/Christmas2016" target="_blank">GitHub Source Code</a> <b>|</b> <a href="#" target="_blank">Christmas video</a> <b>|</b> Made for friends and family by <a href="https://twitter.com/ioninja14" target="_blank">Luke Fisk-Lennon</a>
+		<script src="https://ioninja.github.io/vaultjs/vault.min.js"></script>
+		<script src="main.js"></script>
+	</body>
+</html>
